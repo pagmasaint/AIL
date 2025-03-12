@@ -1,2 +1,2 @@
 # AIL
-This file include asignment of subject AIL
+This file include assignment of subject AIL
